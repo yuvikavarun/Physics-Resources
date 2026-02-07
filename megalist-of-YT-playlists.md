@@ -13,3 +13,6 @@
 13. [General Relativity](https://www.youtube.com/playlist?list=PL9YY-u_YWqQQQKEP9zn5J2YvRnBGR13DR) : Stanford - General Relativity by Leonard Susskind
 14. [Galactic Dynamics & Cosmology](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Bf9I0WDDriuDqEnywoxra) : MIT 8.286 - The Early Universe by Alan Guth
 15. [String Theory](https://www.youtube.com/playlist?list=PLAk3_5JJVYZuuXvmT3QFTfsKG_Zoj59Wu) : Stanford - String Theory & M-Theory by Leonard Susskind
+
+
+note: to add goldstein classical mechs
