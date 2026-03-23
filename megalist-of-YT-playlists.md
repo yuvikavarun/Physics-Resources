@@ -1,3 +1,4 @@
+[A Basic Introduction to Physics](https://youtu.be/b1t41Q3xRM8?si=cbZxiLVh1pHdgh4y) : Organic Chemistry Tutor
 1. [Physics 1](https://youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e&si=dsL-hzLk9ixGzi41) : MIT 8.01 - Classical Mechanics by Prof. Walter Lewin
 2. [Physics 2](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j) : MIT 8.02 - Electricity & Magnetism by Prof. Walter Lewin
 3. [Physics 3](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89) : MIT 8.03 - Vibration & Waves by Prof. Walter Lewin
