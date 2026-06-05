@@ -1,2 +1,2 @@
-[Simulating Black Holes in C++](https://youtu.be/8-B6ryuBkCM?si=EQ4xRbXDMfuGMyeb)
-[Computational Astrophysics Workshop at IISc in July 2023](https://youtube.com/playlist?list=PLJxtWIpdsZWoZpOIEK0YrM94y5dOL22Vf&si=NacJWlSkxiEzOmkK)
+- [Simulating Black Holes in C++](https://youtu.be/8-B6ryuBkCM?si=EQ4xRbXDMfuGMyeb)
+- [Computational Astrophysics Workshop at IISc in July 2023](https://youtube.com/playlist?list=PLJxtWIpdsZWoZpOIEK0YrM94y5dOL22Vf&si=NacJWlSkxiEzOmkK)
