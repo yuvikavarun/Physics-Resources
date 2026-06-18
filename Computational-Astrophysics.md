@@ -1,2 +1,5 @@
 - [Simulating Black Holes in C++](https://youtu.be/8-B6ryuBkCM?si=EQ4xRbXDMfuGMyeb)
-- [Computational Astrophysics Workshop at IISc in July 2023](https://youtube.com/playlist?list=PLJxtWIpdsZWoZpOIEK0YrM94y5dOL22Vf&si=NacJWlSkxiEzOmkK)
+- [Computational Astrophysics Workshop at IISc in July 2023](https://youtube.com/playlist?list=PLJxtWIpdsZWoZpOIEK0YrM94y5dOL22Vf&si=NacJWlSkxiEzOmkK) ~ IISC
+- [Introduction to Cosmological N-Body Simulations](https://www.classcentral.com/classroom/youtube-introduction-to-cosmological-n-body-simulations-by-dr-sownak-bose-durham-university-331433) ~ Durham University
+- [Regulation of Star and Galaxy Formation - Insights from Simulations](https://www.youtube.com/watch?v=IFU7Y8uKzTE) ~ CITA Presentations
+- [Machine Learning in Astrophysics and Cosmology](https://www.youtube.com/watch?v=1YZqxTFPyzA) ~ The Alan Turing Institute
